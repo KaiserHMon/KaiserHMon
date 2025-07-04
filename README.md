@@ -4,7 +4,7 @@
 </h1>
 
 <div style="float: right; margin-left: 20px; margin-bottom: 10px;">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"
+  <img src="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"
        alt="GIF"
        width="130px"
        style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);" />
