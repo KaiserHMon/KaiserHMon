@@ -4,9 +4,11 @@
 </h1>
 
 <div style="float: right; margin-left: 20px; margin-bottom: 10px;">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GIF" width="120px" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"
+       alt="GIF"
+       width="130px"
+       style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);" />
 </div>
-
 <h2>I'm a System Engineering Student</h2>
 
 <ul>
