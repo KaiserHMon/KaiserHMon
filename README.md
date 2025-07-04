@@ -3,7 +3,9 @@
   <img width="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand"/>
 </h1>
 
-<img align="right" alt="GIF" width="120px" style="margin-left: 15px;" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GIF" width="120px" />
+</div>
 
 <h2>I'm a System Engineering Student</h2>
 
