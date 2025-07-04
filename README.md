@@ -11,7 +11,7 @@
 <ul>
   <li>👋 Hi, I am from Argentina and I am 24 years old.</li>
   <li>👨‍💻 Currently studying back-end development technologies and frameworks such as <strong>FastAPI</strong> and <strong>MySQL</strong>, as well as tools like <strong>Linux</strong> and <strong>Docker</strong>.</li>
-  </li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste</li>
+  </li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste.</li>
   <li>📚 Interested in everything related to <strong>Backend</strong>, <strong>Cloud</strong>, and <strong>Data Technologies</strong> 😅.</li>
   <li>💪🏼 <strong>Future Goals</strong>: Keep learning technologies and grow both personally and professionally.</li>
   <li>💞️ Looking to collaborate on open-source projects to improve my skills.</li>
