@@ -1,39 +1,46 @@
-# Hi there, I'm Juan Segundo - aka KaiserHMon <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<!-- Presentación -->
+<h1>Hi there, I'm Juan Segundo - aka KaiserHMon 
+  <img width="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand"/>
+</h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a System Engineering Student
+<h2>I'm a System Engineering Student</h2>
 
-- 👋 Hi, I am from Argentina and I am 24 years old.
-- 👨‍💻 I am currently studying back-end development technologies and frameworks, such as FastAPI and MySQL, as well as tools such as Linux and Docker.
-- 📚 I’m currently interested in everything about Backend, Cloud and Data technologies 😅. 
-- 💪🏼 Future Goals: Learn more technologies - To grow personally and professionally
-- 💞️ I’m looking to collaborate on open-sources projects to improve my abilites.
-- ⚡ Fun fact: I like the countryside and history.
+<ul>
+  <li>👋 Hi, I am from Argentina and I am 24 years old.</li>
+  <li>👨‍💻 Currently studying back-end development technologies and frameworks such as <strong>FastAPI</strong> and <strong>MySQL</strong>, as well as tools like <strong>Linux</strong> and <strong>Docker</strong>.</li>
+  <li>📚 Interested in everything related to <strong>Backend</strong>, <strong>Cloud</strong>, and <strong>Data Technologies</strong> 😅.</li>
+  <li>💪🏼 <strong>Future Goals</strong>: Keep learning technologies and grow both personally and professionally.</li>
+  <li>💞️ Looking to collaborate on open-source projects to improve my skills.</li>
+  <li>⚡ Fun fact: I like the countryside and history.</li>
+</ul>
 
----
+<hr/>
 
-### Contact with me 📝
+<h3>Contact with me 📝</h3>
+<!-- Acá podrías agregar tus redes o email -->
 
+<hr/>
 
----
+<h3>Languages and Tools 🛠</h3>
 
-### Languages and Tools 🛠 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini"/>
+</p>
 
 <br/>
 
----
+<hr/>
