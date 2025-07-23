@@ -6,7 +6,7 @@
 <div style="float: right; margin-left: 20px; margin-bottom: 10px;">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog typing" width="130px" />
 </div>
-<h2>I'm a System Engineering Student</h2>
+<h2>I'm a Systems Bachelors Student</h2>
 
 <ul>
   <li>👋 Hi, I am from Argentina and I am 24 years old.</li>
