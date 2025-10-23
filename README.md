@@ -14,7 +14,6 @@
   <li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste.</li>
   <li>📚 Interested in everything related to <strong>Backend</strong>, <strong>Cloud</strong>, and <strong>Data Technologies</strong> 😅.</li>
   <li>💪🏼 <strong>Future Goals</strong>: Keep learning technologies and grow both personally and professionally.</li>
-  <li>💞️ Looking to collaborate on open-source projects to improve my skills.</li>
   <li>⚡ Fun fact: I like the countryside and history.</li>
 </ul>
 
