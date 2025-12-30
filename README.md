@@ -12,7 +12,7 @@
   <li>👋 Hi, I am from Argentina and I am 25 years old.</li>
   <li>👨‍💻 Currently studying back-end development technologies and frameworks such as <strong>FastAPI</strong> and <strong>MySQL</strong>, as well as tools like <strong>Linux</strong> and <strong>Docker</strong>.</li>
   <li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste.</li>
-  <li>📚 Interested in everything related to <strong>Backend</strong>, <strong>Cloud</strong>, and <strong>Data Technologies</strong> 😅.</li>
+  <li>📚 Interested in everything related to <strong>Backend</strong>, <strong>Fullstack</strong>, and <strong>Data Technologies</strong> 😅.</li>
   <li>💪🏼 <strong>Future Goals</strong>: Keep learning technologies and grow both personally and professionally.</li>
   <li>⚡ Fun fact: I like the countryside and history.</li>
 </ul>
@@ -20,7 +20,7 @@
 <hr/>
 
 <h3>Contact with me 📝</h3>
-<!-- Acá podrías agregar tus redes o email -->
+<a href="https://www.linkedin.com/in/juan-segundo-hardoy-3b4387266/">Linkedin</a>
 
 <hr/>
 
