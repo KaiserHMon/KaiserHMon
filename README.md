@@ -10,10 +10,10 @@
 
 <ul>
   <li>👋 Hi, I am from Argentina and I am 25 years old.</li>
-  <li>👨‍💻 Currently studying back-end development technologies and frameworks such as <strong>FastAPI</strong> and <strong>MySQL</strong>, as well as tools like <strong>Linux</strong> and <strong>Docker</strong>.</li>
+  <li>👨‍💻 I am currently studying data engineering and have experience in backend development and data analysis.</li>
   <li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste.</li>
-  <li>📚 Interested in everything related to <strong>Backend</strong>, <strong>Fullstack</strong>, and <strong>Data Technologies</strong> 😅.</li>
-  <li>💪🏼 <strong>Future Goals</strong>: Keep learning technologies and grow both personally and professionally.</li>
+  <li>📚 Interested in everything related to <strong>Data</strong>, <strong>Backend</strong>, and <strong>Cloud technologies</strong> 😅.</li>
+  <li>💪🏼 <strong>Future Goals</strong>: Keep learning and grow both personally and professionally.</li>
   <li>⚡ Fun fact: I like the countryside and history.</li>
 </ul>
 
