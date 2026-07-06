@@ -10,9 +10,9 @@
 
 <ul>
   <li>👋 Hi, I am from Argentina and I am 25 years old.</li>
-  <li>👨‍💻 I am currently studying data engineering and have experience in backend development and data analysis.</li>
+  <li>👨‍💻 I am currently studying AI engineering and have experience in backend development and data analysis.</li>
   <li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste.</li>
-  <li>📚 Interested in everything related to <strong>Data</strong>, <strong>Backend</strong>, and <strong>Cloud technologies</strong> 😅.</li>
+  <li>📚 Interested in everything related to <strong>AI</strong>, <strong>Backend</strong>, and <strong>Cloud technologies</strong> 😅.</li>
   <li>💪🏼 <strong>Future Goals</strong>: Keep learning and grow both personally and professionally.</li>
   <li>⚡ Fun fact: I like the countryside and history.</li>
 </ul>
