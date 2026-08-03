@@ -1,48 +1,44 @@
-<!-- Presentación -->
-<h1>Hi there, I'm Juan Segundo
-  <img width="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand"/>
-</h1>
+# Hi there, I'm Juan Segundo Hardoy 👋
 
-<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Dog typing" width="130px" />
-</div>
-<h2>I'm a Systems Bachelors Student</h2>
+I'm a Software Engineer and Information Systems student focused on building scalable backends, internal tools, and AI integrations. I enjoy designing clean architectures, automating workflows, and building data pipelines.
 
-<ul>
-  <li>👋 Hi, I am from Argentina and I am 25 years old.</li>
-  <li>👨‍💻 I am currently studying AI engineering and have experience in backend development and data analysis.</li>
-  <li> :book: Also i am studying a systems bachelors degree in Universidad Nacional del Nordeste.</li>
-  <li>📚 Interested in everything related to <strong>AI</strong>, <strong>Backend</strong>, and <strong>Cloud technologies</strong> 😅.</li>
-  <li>💪🏼 <strong>Future Goals</strong>: Keep learning and grow both personally and professionally.</li>
-  <li>⚡ Fun fact: I like the countryside and history.</li>
-</ul>
+---
 
-<hr/>
+### 🚀 Featured Projects
 
-<h3>Contact with me 📝</h3>
-<a href="https://www.linkedin.com/in/juan-segundo-hardoy-3b4387266/">Linkedin</a>
+*   **[llm-runtime-playground](https://github.com/KaiserHMon/llm-runtime-playground)**
+    *A framework-less, production-grade AI orchestrator backend built from scratch in Python to explore AI Engineering, Context Engineering, and LLM mechanics.*
+    *   **Highlights:** Clean Architecture, dynamic token budgeting, incremental summarization (pointer pattern), semantic routing, and custom LLM-as-a-judge evaluations.
+    *   *Stack: Python, FastAPI, Qdrant, Pydantic V2, SQLite.*
 
-<hr/>
+*   **[agriculture-handling-API](https://github.com/KaiserHMon/agriculture-handling-API)**
+    *A RESTful API designed to optimize agricultural campaign operations by managing plots, events, and agronomic technical recommendations.*
+    *   **Highlights:** Domain-driven design, process automation, webhook integration, and query optimization for data analysis.
+    *   *Stack: Python, FastAPI, PostgreSQL, Docker.*
 
-<h3>Languages and Tools 🛠</h3>
+*   **[NuestroNido](https://github.com/KaiserHMon/NuestroNido-Back)**
+    *A collaborative, fullstack household management platform designed to organize tasks, shared finances, and routines.*
+    *   **Highlights:** Decoupled React/TypeScript frontend and FastAPI backend, real-time sync, and role-based access control.
+    *   *Stack: React, TypeScript, Python, FastAPI, MySQL.*
 
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini"/>
-</p>
+---
 
-<br/>
+### 🛠️ Tech Stack & Skills
 
-<hr/>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, C, SQL |
+| **Frameworks** | FastAPI, Django (basic), React |
+| **Databases** | PostgreSQL, MySQL, Redis, SQLite, Qdrant (Vector DB) |
+| **Tools & Cloud** | AWS, Docker, Linux, Git & GitHub, AI-Assisted Dev Tools |
+
+---
+
+### 📈 About Me & Fun Facts
+- 🎓 Currently studying a Bachelor’s Degree in Information Systems at *Universidad Nacional del Nordeste (UNNE)*.
+- 🧑‍💻 Working as a Backend & Data Automation Developer, saving hours of manual labor through automation.
+- ⚡ Fun fact: I love history and the countryside.
+
+### Connect with me 📝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-segundo-hardoy-3b4387266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-segundo-hardoy-3b4387266/)
