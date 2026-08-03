@@ -1,10 +1,10 @@
-# Hi there, I'm Juan Segundo Hardoy 👋
+# Hi there, I'm Juan Segundo Hardoy
 
 I'm a Software Engineer and Information Systems student focused on building scalable backends, internal tools, and AI integrations. I enjoy designing clean architectures, automating workflows, and building data pipelines.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 *   **[llm-runtime-playground](https://github.com/KaiserHMon/llm-runtime-playground)**
     *A framework-less, production-grade AI orchestrator backend built from scratch in Python to explore AI Engineering, Context Engineering, and LLM mechanics.*
@@ -23,7 +23,7 @@ I'm a Software Engineer and Information Systems student focused on building scal
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -34,11 +34,10 @@ I'm a Software Engineer and Information Systems student focused on building scal
 
 ---
 
-### 📈 About Me & Fun Facts
-- 🎓 Currently studying a Bachelor’s Degree in Information Systems at *Universidad Nacional del Nordeste (UNNE)*.
-- 🧑‍💻 Working as a Backend & Data Automation Developer, saving hours of manual labor through automation.
-- ⚡ Fun fact: I love history and the countryside.
+###  About Me & Fun Facts
+-  Currently studying a Bachelor’s Degree in Information Systems at *Universidad Nacional del Nordeste (UNNE)*.
+-  Working as a Backend & Data Automation Developer, saving hours of manual labor through automation.
+-  Fun fact: I love history and the countryside.
 
-### Connect with me 📝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-segundo-hardoy-3b4387266/)
+### Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-segundo-hardoy-3b4387266/)
